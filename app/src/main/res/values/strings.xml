@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSample</string>
+    <string name="AddImage">Доабвить изображение</string>
+    <string name="images">Images</string>
+</resources>
